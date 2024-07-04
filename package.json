@@ -25,6 +25,8 @@
     "jest-environment-jsdom": "^29.7.0",
     "jest-mock": "^29.7.0",
     "playwright": "^1.45.1",
+    "sass": "^1.77.6",
+    "sass-loader": "^14.2.1",
     "sharp": "^0.33.4",
     "style-loader": "^4.0.0",
     "webpack": "^5.92.1",
